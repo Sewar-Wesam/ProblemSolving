@@ -5,8 +5,8 @@ The highway is represented as a straight line, and the locations of gas stations
 ### The task is: 
 implement a function that takes a list of gas station locations and the current position of the car as input . The function should return the index of the nearest gas station to the car's position. 
 
-### Example: 
-locations=[10,20,30,40,50,60] 
-carPosition=35 
-Output: 2 
+### Example 
+###########locations=[10,20,30,40,50,60] 
+###########carPosition=35 
+###########Output: 2 
 ========================================================================================================================================================
